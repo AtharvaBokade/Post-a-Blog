@@ -1,0 +1,13 @@
+.name{
+    color: brown;
+    position:absolute;
+    width:30%;
+    top:10%;
+    left:65%;
+}
+.name_input{
+    position:absolute;
+    width:30%;
+    top:15%;
+    left:65%;
+}

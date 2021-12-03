@@ -1,0 +1,12 @@
+.right_bg{
+    position: absolute;
+    top:7%;
+    left:63%;
+    width:33.7%;
+    height:91%;
+    background-color:bisque;
+    border-top-left-radius: 1%;
+    border-top-right-radius: 1%;
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+}
